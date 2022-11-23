@@ -1,4 +1,5 @@
 # Folders
+__pycache__/
 node_modules/
 
 # Hidden Files
@@ -8,4 +9,5 @@ node_modules/
 package.json
 package-lock.json
 db.sqlite3
+
 
