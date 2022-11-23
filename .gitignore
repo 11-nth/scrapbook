@@ -1,0 +1,11 @@
+# Folders
+node_modules/
+
+# Hidden Files
+.vercel
+
+# Individual Files
+package.json
+package-lock.json
+db.sqlite3
+
